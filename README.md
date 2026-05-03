@@ -1,5 +1,5 @@
 # Bobai Nuhu — AWS Cloud Learning Journey
-Notes, simulations, and progress logs for the AWS Certified Cloud Practitioner exam.
+Complete documentation and progress logs for the AWS Certified Cloud Practitioner (CLF-C02) curriculum. 12/12 modules finished. Currently in the final exam preparation and portfolio development phase.
 # AWS Cloud Learning Journey
 
 ## ☁️ AWS Learning Progress
