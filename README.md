@@ -1,6 +1,6 @@
-# aws-cloud-practitioner-journey
-Notes, simulations, and progress logs for the AWS Certified Cloud Practitioner exam.
 # Bobai Nuhu — AWS Cloud Learning Journey
+Notes, simulations, and progress logs for the AWS Certified Cloud Practitioner exam.
+# AWS Cloud Learning Journey
 
 ## ☁️ AWS Learning Progress
 
